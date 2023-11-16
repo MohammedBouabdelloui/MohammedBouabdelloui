@@ -3,7 +3,7 @@
 <img width="400" alt="Coding" align="right" src="https://th.bing.com/th/id/R.5c8f08b5fe55e12baae6fc54e46c343a?rik=hb8qO5jgNw2XxA&pid=ImgRaw&r=0"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedbouabdelloui&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedbouabdelloui" /> </p>
 
-- 🔭 I’m currently working on [coaching](https://github.com/MohammedBouabdelloui/coaching)
+- 🔭 I’m currently working on [school-management](https://github.com/MohammedBouabdelloui/shool-management)
 
 - 👯 I’m looking to collaborate on [jhonDesg](https://github.com/AbdallahIsmaili/jhonDesg)
 
