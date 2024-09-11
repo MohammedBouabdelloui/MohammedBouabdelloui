@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">A passionate full stack developer from India Morocco</h3>
+<h3 align="center">A passionate full stack developer from  Morocco</h3>
 <img width="400" alt="Coding" align="right" src="https://th.bing.com/th/id/R.5c8f08b5fe55e12baae6fc54e46c343a?rik=hb8qO5jgNw2XxA&pid=ImgRaw&r=0"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedbouabdelloui&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedbouabdelloui" /> </p>
 
